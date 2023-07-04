@@ -1,15 +1,14 @@
 ![MasterHead](https://i.pinimg.com/736x/73/d7/39/73d739ce3e41947b0d9ca63ca889248e.jpg)
 <h1 align="center">Hi 👋, I'm Pavan Kalyan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">An Aspiring Software Developer.</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan000-code&label=Profile%20views&color=0e75b6&style=flat" alt="pavan000-code" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pavankalyan002" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan002?logo=twitter&style=for-the-badge" alt="pavankalyan002" /></a> </p>
 
-- 🔭 I’m currently working on [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **System Design, Solving Leetcode and Strivers SDE sheet**
 
 - 👨‍💻 All of my projects are available at [https://courageous-madeleine-5233e4.netlify.app/](https://courageous-madeleine-5233e4.netlify.app/)
 

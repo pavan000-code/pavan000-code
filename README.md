@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **System Design, Solving Leetcode and Strivers SDE sheet**
 
-- 👨‍💻 All of my projects are available at [https://courageous-madeleine-5233e4.netlify.app/](https://courageous-madeleine-5233e4.netlify.app/)
 
 - 💬 Ask me about **MERN stack, Python3**
 
